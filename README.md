@@ -12,3 +12,7 @@ Task 1 : https://quizzical-perlman-585aea.netlify.app/
 Task 2 : https://alik-kumar-ghosh.github.io/LGM_VIP/
 
 <img src="task_2/src/assets/Task 2 gif screen rec.gif">
+
+### Task 3
+
+ <img src="Task_3/src/main/resources/Task 3 gif screen rec.gif">
