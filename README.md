@@ -16,3 +16,5 @@ Task 2 : https://alik-kumar-ghosh.github.io/LGM_VIP/
 ### Task 3
 
  <img src="Task_3/src/main/resources/Task 3 gif screen rec.gif">
+
+#### Blog : https://alik-kumar-ghosh.medium.com/internship-experience-with-lgm-5b9f623a853e
