@@ -3,7 +3,14 @@
 
 ### Task 1
 
-Task 1 : https://quizzical-perlman-585aea.netlify.app/
+Link : https://quizzical-perlman-585aea.netlify.app/
+
+##### Tech Stack:
+**Client:**
+- HTML
+- CSS
+- JS
+
 
 <img src="Task_1/assets/Task1 gif screen rec.gif">
 
